@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @gh0stprince or M. I'm primarily a visual artist, though I have a thing for webdev and Python.
+- 👋 Hi, I’m @mechanaima or Noah. I'm a visual artist, though I have a thing for sysadmin and Python.
 - I'm currently going to school for computer science (technical support focus)
 
